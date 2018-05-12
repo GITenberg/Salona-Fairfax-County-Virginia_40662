@@ -1,0 +1,25 @@
+_repo: Salona-Fairfax-County-Virginia_40662
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anderson, Ellen L.
+    gutenberg_agent_id: '40756'
+    url: http://www.gutenberg.org/2009/agents/40756
+description: ''
+gutenberg_issued: '2012-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40662'
+  lccn: '79084335'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'McLean, Va. Salona'
+- !lcc 'F206'
+title: Salona, Fairfax County, Virginia
+url: http://www.gutenberg.org/ebooks/40662
